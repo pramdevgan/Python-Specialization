@@ -7,7 +7,7 @@ Which operator will tell if a list contains a certain value?
 -  The `len` function
 -  The concatenation (`+`) operator
 -  The slice (`:`) operator
--  The `in` operator
+- <font color = green> The `in` operator </font>
 
 
 To see if a value is an element of a list, use the `in` operator.
