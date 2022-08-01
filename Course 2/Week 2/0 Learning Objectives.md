@@ -1,4 +1,7 @@
+Store multiple characters or text in a string. Use built-in methods and functions to manipulate strings.
+
 # ***Learning Objectives***
+****
 - **Demonstrate ability to format strings with `f-strings` and `.format`**
 - **Identify basic forms of `string interpolation`**
 - **Compare strings when the capitalizations are different**
