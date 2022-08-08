@@ -1,0 +1,5 @@
+Python was created by Guido van Rossum.
+It was named for the TV show Monty Python's Flying Circus.
+Version 1 was released in January 1994.
+Python 2.0 was released in October 2000.
+The third version came out in December 2008.
