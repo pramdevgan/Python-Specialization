@@ -1,0 +1,4 @@
+Problem
+Write a program that reads a text file and returns the number of lines as well as the total number of characters in the file.
+Expected Output
+The first two lines of your code must look like this:
